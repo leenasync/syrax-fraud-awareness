@@ -1,0 +1,85 @@
+# ==========================================================
+# Unity generated folders (rebuilt automatically by Unity)
+# ==========================================================
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# Unity scene auto-recovery backups
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
+
+# Asset Store tools / plugins
+/[Aa]ssets/AssetStoreTools*
+
+# Re-importable .unitypackage archives (already imported into the project)
+*.unitypackage
+*.unitypackage.meta
+
+# ==========================================================
+# Build outputs
+# ==========================================================
+*.apk
+*.aab
+*.obb
+*.app
+*.ipa
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+*_BurstDebugInformation_DoNotShip/
+crashlytics-build.properties
+
+# ==========================================================
+# IDE / OS files
+# ==========================================================
+.vs/
+.vscode/
+.idea/
+.gradle/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+mono_crash.*
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ==========================================================
+# Secrets — NEVER commit API keys (Gemini, OpenAI, etc.)
+# Put keys in one of these files; they stay on your machine only.
+# ==========================================================
+.env
+.env.*
+!.env.example
+*.secret.json
+secrets.json
+**/Secrets/
+/[Aa]ssets/StreamingAssets/config.local.json
+/[Aa]ssets/StreamingAssets/config.local.json.meta
