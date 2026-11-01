@@ -2,6 +2,9 @@
 
 > An interactive Unity experience that trains people to recognize and resist financial scams through realistic, AI-personalized scenarios: a phone call, a website, and a text message.
 
+**Built at AMAD Hackathon 2026** · 🌐 [Portfolio](https://leena-alqahtani.netlify.app)
+
+![Hackathon](https://img.shields.io/badge/AMAD%20Hackathon-2026-a387ff)
 ![Unity](https://img.shields.io/badge/Unity-6000.3-black?logo=unity)
 ![C#](https://img.shields.io/badge/C%23-.NET-512BD4?logo=csharp)
 ![URP](https://img.shields.io/badge/Render%20Pipeline-URP-blue)
